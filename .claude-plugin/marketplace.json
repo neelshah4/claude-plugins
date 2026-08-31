@@ -5,34 +5,9 @@
   },
   "metadata": {
     "description": "Claude Code plugins for academic and clinical work: grant review, critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
-    {
-      "name": "grant-reviewer",
-      "description": "Simulated NIH study section. Nine specialist reviewers score a grant under the Simplified Review Framework (R-series) or the five K criteria, then produce a ranked bank of copy-paste-ready edits.",
-      "version": "6.2.0",
-      "author": {
-        "name": "Neel Shah, MD, MSc"
-      },
-      "category": "research",
-      "keywords": [
-        "nih",
-        "grant",
-        "peer-review",
-        "study-section",
-        "r01",
-        "k08",
-        "academic"
-      ],
-      "homepage": "https://github.com/neelshah4/claude-grant-reviewer",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/neelshah4/claude-grant-reviewer.git",
-        "path": ".",
-        "ref": "v6.2.0"
-      }
-    },
     {
       "name": "icu-clinical-consult",
       "description": "Multi-agent adversarial critical-care consult. Four independent reviewers (bedside reasoning, guidelines, human pathophysiology, basic science) converge through a synthesizer. Decision support for licensed clinicians.",

@@ -3,7 +3,7 @@
 # with the canonical repo. Run before tagging any release.
 #
 # Canonical:  claude-fabrication-audit/skills/fabrication-audit/SKILL.md
-# Bundlers:   claude-grant-reviewer, claude-icu-clinical-consult, claude-citation-verification
+# Bundlers:   claude-icu-clinical-consult, claude-citation-verification
 #
 # Usage:
 #   sync-fabrication-audit.sh check   report drift, change nothing (default)
@@ -16,7 +16,7 @@ set -e
 MODE="${1:-check}"
 ROOT="${SYNC_ROOT:-$(cd "$(dirname "$0")/../.." && pwd)}"
 CANON="$ROOT/claude-fabrication-audit/skills/fabrication-audit/SKILL.md"
-BUNDLERS="claude-grant-reviewer claude-icu-clinical-consult claude-citation-verification"
+BUNDLERS="claude-icu-clinical-consult claude-citation-verification"
 
 if [ ! -f "$CANON" ]; then
   echo "FATAL: canonical copy not found at $CANON" >&2
