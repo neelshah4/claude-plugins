@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.3.0] - 2026-09-03
+
+### Changed
+- Pinned releases: icu-clinical-consult v1.2.1, citation-verification v2026.9.3, fabrication-audit v2026.9.3, prompt-optimizer v2026.9.3 (canonical sync of 2026-09-03).
+
 ## [1.2.0] - 2026-08-31
 
 ### Removed
