@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Claude Code plugins for academic and clinical work: grant review, critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "plugins": [
     {
       "name": "icu-clinical-consult",
       "description": "Multi-agent adversarial critical-care consult. Four independent reviewers (bedside reasoning, guidelines, human pathophysiology, basic science) converge through a synthesizer. Decision support for licensed clinicians.",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -29,13 +29,13 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-icu-clinical-consult.git",
         "path": ".",
-        "ref": "v1.2.1"
+        "ref": "v1.2.2"
       }
     },
     {
       "name": "citation-verification",
       "description": "Verifies every PMID, DOI, PMC, arXiv, and NCT identifier against PubMed, Crossref, OpenAlex, and Semantic Scholar. Replaces anything unverifiable with [CITATION NEEDED].",
-      "version": "2026.9.3",
+      "version": "2026.9.8",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -53,13 +53,13 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-citation-verification.git",
         "path": ".",
-        "ref": "v2026.9.3"
+        "ref": "v2026.9.8"
       }
     },
     {
       "name": "fabrication-audit",
       "description": "Verification gate for non-citation specifics: doses, thresholds, percentages, guideline names, fees. Classifies every retrievable value by provenance and flags fabrications.",
-      "version": "2026.9.3",
+      "version": "2026.9.8",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -75,13 +75,13 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-fabrication-audit.git",
         "path": ".",
-        "ref": "v2026.9.3"
+        "ref": "v2026.9.8"
       }
     },
     {
       "name": "prompt-optimizer",
       "description": "Sharpens a request into a structured 5-element prompt before Claude produces content. Fires on substantive turns, skips trivia, and ships the enforcement hooks.",
-      "version": "2026.9.3",
+      "version": "2026.9.8",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -97,7 +97,7 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-prompt-optimizer.git",
         "path": ".",
-        "ref": "v2026.9.3"
+        "ref": "v2026.9.8"
       }
     }
   ]

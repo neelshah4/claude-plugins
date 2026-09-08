@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.0] - 2026-09-08
+
+### Changed
+- Pinned releases: icu-clinical-consult v1.2.2, citation-verification v2026.9.8, fabrication-audit v2026.9.8, prompt-optimizer v2026.9.8 (word-budget/audit-rubric trims; the feedback-loop section renamed across all bundled fabrication-audit copies and citation-verification/prompt-optimizer; verified byte-identical bundled fabrication-audit copies via `scripts/sync-fabrication-audit.sh check`, no drift found).
+
 ## [1.3.0] - 2026-09-03
 
 ### Changed
