@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.1] - 2026-09-12
+
+### Changed
+- Pinned release: prompt-optimizer v2026.9.12 (craft line added to Refine, grant-reviewer reference-name fixes, a residual internal path genericized). icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.0] - 2026-09-08
 
 ### Changed

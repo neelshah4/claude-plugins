@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins for academic and clinical work: grant review, critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "plugins": [
     {
@@ -81,7 +81,7 @@
     {
       "name": "prompt-optimizer",
       "description": "Sharpens a request into a structured 5-element prompt before Claude produces content. Fires on substantive turns, skips trivia, and ships the enforcement hooks.",
-      "version": "2026.9.8",
+      "version": "2026.9.12",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -97,7 +97,7 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-prompt-optimizer.git",
         "path": ".",
-        "ref": "v2026.9.8"
+        "ref": "v2026.9.12"
       }
     }
   ]
