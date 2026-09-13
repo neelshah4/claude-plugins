@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.2] - 2026-09-13
+
+### Changed
+- Pinned release: prompt-optimizer v2026.9.13 (two handoff-selector rows for academic-writing-reviewer and casual-writing-reviewer, plus Rule 11 on reviewer ordering). icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.1] - 2026-09-12
 
 ### Changed
