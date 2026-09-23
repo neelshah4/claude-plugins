@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.3] - 2026-09-23
+
+### Changed
+- Pinned release: prompt-optimizer v2026.9.23 (three drafting clauses for Claude Opus 5.5: no requests to write out internal reasoning, effort sets depth, name specific patterns to avoid). icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.2] - 2026-09-13
 
 ### Changed
