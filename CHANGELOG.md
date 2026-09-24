@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.4] - 2026-09-24
+
+### Changed
+- Pinned releases: icu-clinical-consult v1.2.3, citation-verification v2026.9.24, fabrication-audit v2026.9.24. Each adds an optional Parallel Search MCP fallback for when WebFetch or WebSearch is blocked. prompt-optimizer unchanged.
+
 ## [1.4.3] - 2026-09-23
 
 ### Changed
