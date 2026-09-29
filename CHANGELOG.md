@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.5] - 2026-09-28
+
+### Changed
+- Pinned release: prompt-optimizer v2026.9.28 (every prompt block now carries a pass/fail eval; repeatable surfaces default to hillclimbing against a held-out test set). icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.4] - 2026-09-24
 
 ### Changed
