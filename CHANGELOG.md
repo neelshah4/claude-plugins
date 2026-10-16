@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.6] - 2026-10-16
+
+### Changed
+- Pinned release: prompt-optimizer v2026.10.16. It adds a depth pass on substantive blocks (expert move, rawest material, methods and tools, outside judge) and requires every eval to name an outside judge. It also releases the long-run harness. icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.5] - 2026-09-28
 
 ### Changed
