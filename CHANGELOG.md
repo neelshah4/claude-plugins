@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.7] - 2026-10-16
+
+### Changed
+- Pinned release: prompt-optimizer v2026.10.16.1. It states how a capped input, a user override, and the question count rank against each other, classes repo and file-edit tasks as the Document channel, adds a visual-deliverable handoff row, and gives presentation tasks the two fixed prose lines. icu-clinical-consult, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.6] - 2026-10-16
 
 ### Changed
