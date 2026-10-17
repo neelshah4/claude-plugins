@@ -66,7 +66,7 @@ That assumption produces two families.
 | **Web access** | Every verification path, and guideline retrieval. |
 | **PubMed MCP** *(optional)* | Improves retrieval in `citation-verification` and `icu-clinical-consult`. |
 
-All four work on any current Claude model. They were developed and tuned on Opus 5; nothing pins a model ID.
+All four work on any current Claude model. They were developed on Opus 5 and are in daily use on Opus 5.5; nothing pins a model ID.
 
 ---
 
