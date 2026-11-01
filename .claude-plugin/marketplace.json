@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Claude Code plugins for academic and clinical work: grant review, critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.4.7"
+    "version": "1.4.8"
   },
   "plugins": [
     {
       "name": "icu-clinical-consult",
       "description": "Multi-agent adversarial critical-care consult. Four independent reviewers (bedside reasoning, guidelines, human pathophysiology, basic science) converge through a synthesizer. Decision support for licensed clinicians.",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -29,7 +29,7 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-icu-clinical-consult.git",
         "path": ".",
-        "ref": "v1.2.3"
+        "ref": "v1.2.4"
       }
     },
     {

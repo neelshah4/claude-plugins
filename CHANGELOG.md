@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.8] - 2026-11-01
+
+### Changed
+- Pinned release: icu-clinical-consult v1.2.4. Mode A intake is now acuity-aware: no questions when nothing deciding is missing, one `Assumed:` line when the case is time-critical and the answer holds across plausible values, and otherwise only the one to three values that decide the recommendation. prompt-optimizer, citation-verification, and fabrication-audit unchanged.
+
 ## [1.4.7] - 2026-10-16
 
 ### Changed
