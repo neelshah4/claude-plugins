@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.9] - 2026-11-14
+
+### Changed
+- Pinned release: prompt-optimizer v2026.11.14. The skill fires on every typed prompt that carries a task, including follow-ups of 25 words or more, and its hooks ignore turns no person started (agent reports, notifications, compaction summaries). The block gains an `<assumptions>` element, `<eval>` drops to 1–3 checks that run as the last step, and the `/goal` suggestion is removed.
+
 ## [1.4.8] - 2026-11-01
 
 ### Changed
