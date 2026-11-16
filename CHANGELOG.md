@@ -2,6 +2,12 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.10] - 2026-11-16
+
+### Changed
+- Pinned release: prompt-optimizer v2026.11.16. The closeout rule follows the user's standing format, one merged receipt line replaces two, the nudge hook stays silent on harness events and short status or command prompts, and the Stop hook finds the opening prompt in long transcripts.
+- Pinned release: icu-clinical-consult v1.3.1. One intake rule (0 to 3 questions in any mode), one Decision-support rule, a population line, a clinician scope and length override that keeps a whole-patient check in patient scenarios, and a scripted workflow that returns the gated consult and names any gate that did not run.
+
 ## [1.4.9] - 2026-11-14
 
 ### Changed
