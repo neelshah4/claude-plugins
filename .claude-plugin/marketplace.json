@@ -4,8 +4,8 @@
     "name": "Neel Shah, MD, MSc"
   },
   "metadata": {
-    "description": "Claude Code plugins for academic and clinical work: grant review, critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.4.11"
+    "description": "Claude Code plugins for academic and clinical work: critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
+    "version": "1.4.12"
   },
   "plugins": [
     {

@@ -2,6 +2,18 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.12] - 2026-11-20
+
+### Changed
+- README plugin table shows the pinned versions: icu-clinical-consult 1.3.1, citation-verification 2026.11.16, fabrication-audit 2026.9.24, prompt-optimizer 2026.11.16. The table had stayed at the first-release versions.
+- Marketplace description lists only the four plugins it carries.
+- No plugin pin changed.
+
+## [1.4.11] - 2026-11-16
+
+### Changed
+- Pinned release: citation-verification v2026.11.16. A bundled script now fetches each registry record and assigns every citation its status; the skill, agent and workflow share one 11-status vocabulary. The release also adds a claim-support tier, an eval bank, and an optional Stop hook that the plugin does not register. prompt-optimizer, icu-clinical-consult, and fabrication-audit unchanged.
+
 ## [1.4.10] - 2026-11-16
 
 ### Changed
