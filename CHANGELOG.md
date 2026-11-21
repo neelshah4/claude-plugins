@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.13] - 2026-11-20
+
+### Changed
+- prompt-optimizer pinned to v2026.11.20: the Stop hook requires a closed `<optimized_prompt>` element with role, inputs and instructions before it counts a block as present.
+
 ## [1.4.12] - 2026-11-20
 
 ### Changed
