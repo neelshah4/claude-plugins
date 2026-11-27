@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.15] - 2026-11-27
+
+### Changed
+- Pinned prompt-optimizer v2026.11.27: the nudge hook stays silent on peer cross-session messages and side-session hand-offs, and the three legacy markers now match only at a prompt's opening.
+
 ## [1.4.14] - 2026-11-27
 
 ### Changed
