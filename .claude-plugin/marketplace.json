@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Claude Code plugins for academic and clinical work: critical-care consults, citation verification, fabrication auditing, and prompt optimization.",
-    "version": "1.4.13"
+    "version": "1.4.14"
   },
   "plugins": [
     {
       "name": "icu-clinical-consult",
       "description": "Multi-agent adversarial critical-care consult. Four independent reviewers (bedside reasoning, guidelines, human pathophysiology, basic science) converge through a synthesizer. Decision support for licensed clinicians.",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -29,13 +29,13 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-icu-clinical-consult.git",
         "path": ".",
-        "ref": "v1.3.1"
+        "ref": "v1.3.2"
       }
     },
     {
       "name": "citation-verification",
       "description": "Verifies every PMID, DOI, PMC, arXiv, and NCT identifier against PubMed, Crossref, OpenAlex, and Semantic Scholar. Replaces anything unverifiable with [CITATION NEEDED].",
-      "version": "2026.11.16",
+      "version": "2026.11.27",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -53,13 +53,13 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-citation-verification.git",
         "path": ".",
-        "ref": "v2026.11.16"
+        "ref": "v2026.11.27"
       }
     },
     {
       "name": "fabrication-audit",
       "description": "Verification gate for non-citation specifics: doses, thresholds, percentages, guideline names, fees. Classifies every retrievable value by provenance and flags fabrications.",
-      "version": "2026.9.24",
+      "version": "2026.11.27",
       "author": {
         "name": "Neel Shah, MD, MSc"
       },
@@ -75,7 +75,7 @@
         "source": "git-subdir",
         "url": "https://github.com/neelshah4/claude-fabrication-audit.git",
         "path": ".",
-        "ref": "v2026.9.24"
+        "ref": "v2026.11.27"
       }
     },
     {

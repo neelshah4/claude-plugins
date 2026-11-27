@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.14] - 2026-11-27
+
+### Changed
+- Pinned releases: icu-clinical-consult v1.3.2, citation-verification v2026.11.27, fabrication-audit v2026.11.27. Each skill description now puts its trigger phrases inside the first 300 characters that skill listings show; no trigger, scope or procedure changed. The `citation-verifier` agent's contract block moves its voice rules to a separate line, and the `icu-consult-synthesizer` agent description is shortened. The three bundled `fabrication-audit` copies match the standalone repo. prompt-optimizer unchanged.
+
 ## [1.4.13] - 2026-11-20
 
 ### Changed
