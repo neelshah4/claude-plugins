@@ -2,6 +2,11 @@
 
 All notable changes to this marketplace are documented here.
 
+## [1.4.16] - 2026-11-27
+
+### Changed
+- Pinned icu-clinical-consult v1.3.3 and citation-verification v2026.11.27.1: both now name `deep-research` where they named the `literature-review` skill, which is no longer maintained.
+
 ## [1.4.15] - 2026-11-27
 
 ### Changed

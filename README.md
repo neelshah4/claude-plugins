@@ -25,8 +25,8 @@ Every entry is pinned to a release tag, so an install is reproducible.
 
 | Plugin | Version | Does |
 |---|---|---|
-| [icu-clinical-consult](https://github.com/neelshah4/claude-icu-clinical-consult) | 1.3.2 | Four independent critical-care specialists reconciled by a synthesizer |
-| [citation-verification](https://github.com/neelshah4/claude-citation-verification) | 2026.11.27 | Checks every PMID, DOI, PMC, arXiv, and NCT identifier against live sources |
+| [icu-clinical-consult](https://github.com/neelshah4/claude-icu-clinical-consult) | 1.3.3 | Four independent critical-care specialists reconciled by a synthesizer |
+| [citation-verification](https://github.com/neelshah4/claude-citation-verification) | 2026.11.27.1 | Checks every PMID, DOI, PMC, arXiv, and NCT identifier against live sources |
 | [fabrication-audit](https://github.com/neelshah4/claude-fabrication-audit) | 2026.11.27 | Verifies doses, thresholds, percentages, and other retrievable values |
 | [prompt-optimizer](https://github.com/neelshah4/claude-prompt-optimizer) | 2026.11.27 | Structures a request before Claude produces content, with enforcement hooks |
 
